@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>C-Care ITS Releases Nexus Repository</name>
-	      <url>http://15.207.222.9:8971/c-careITS/repository/pavantest-release/</url>
+	      <url>http://13.233.102.87:8971/c-careITS/repository/pavantest-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>C-Care ITS Snapshot Nexus Repository </name>
-	      <url>http://15.207.222.9:8971/c-careITS/repository/pavantest-snapshot/</url>
+	      <url>http://13.233.102.87:8971/c-careITS/repository/pavantest-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
